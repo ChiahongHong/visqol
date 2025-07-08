@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: visqol
+Version: 3.3.3
+Summary: An objective, full-reference metric for perceived audio quality.
+Home-page: https://github.com/google/visqol
+License-File: LICENSE
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: summary

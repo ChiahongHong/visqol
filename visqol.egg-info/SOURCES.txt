@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+bazel-bin/similarity_result_pb2.py
+bazel-bin/visqol_config_pb2.py
+bazel-bin/python/visqol_lib_py.so
+model/lattice_tcditugenmeetpackhref_ls2_nl60_lr12_bs2048_learn.005_ep2400_train1_7_raw.tflite
+model/libsvm_nu_svr_model.txt
+visqol.egg-info/PKG-INFO
+visqol.egg-info/SOURCES.txt
+visqol.egg-info/dependency_links.txt
+visqol.egg-info/top_level.txt
